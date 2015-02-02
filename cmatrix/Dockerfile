@@ -3,7 +3,7 @@
 # VERSION 0.1
 
 # Pull base image.
-FROM debian:stable
+FROM ubuntu
 
 # :)
 MAINTAINER Tazro Inutano Ohta, inutano@gmail.com
