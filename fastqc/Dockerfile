@@ -1,9 +1,9 @@
 # Docker container for fastqc, mainly for introduction of docker
 #
-# VERSION 0.1
+# VERSION 0.1.1
 
 # Pull base image.
-FROM dockerfile/ubuntu
+FROM ubuntu:14.04.4
 
 # :)
 MAINTAINER Tazro Inutano Ohta, inutano@gmail.com
